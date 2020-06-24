@@ -1,0 +1,4 @@
+/media/administrador/Arquivos/Arquivos/progama/c++/project/basico c++/calculador.cpp: In function ‘int main()’:
+/media/administrador/Arquivos/Arquivos/progama/c++/project/basico c++/calculador.cpp:33:5: error: continue statement not within a loop
+     continue;
+     ^~~~~~~~
